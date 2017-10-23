@@ -1,2 +1,2 @@
 # Data-Structures
-contains stuff related to data structures
+BC yeh karle Microsoft pakka hai tera.
